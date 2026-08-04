@@ -4,7 +4,7 @@ import "modern-normalize";
 import "./index.css";
 
 import { Toaster } from "react-hot-toast";
-import App from "./App";
+import App from "./components/App/App";
 
 ReactDOM.createRoot(document.getElementById("root")!).render(
   <React.StrictMode>
